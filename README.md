@@ -33,3 +33,68 @@ Here are some ideas to get you started:
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 </div>
+
+
+### :woman_technologist: About Me :
+I am an ice-cream loving Penetration Tester and Developer from Kenya.<img src="https://media.giphy.com/media/WFZvB7VIXBgiz3oDXE/giphy.gif" width="30">
+
+- :telescope: I’m a fellow at Cybersafe Foundation on the Penetration Testing career path and a forth year computer Science student
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve CTF challenges on various platforms such as cybertalents and a member of the Fr33aks-mini CTF team
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-goretti/)
+
+---
+### Penetration testing skills
+- Knowledge in penetration testing enterprise networks using standard penetration tools 
+(Metasploit, Nmap, Nessus, Burp Suite, etc.) 
+- Experience with utilizing penetration testing methodologies 
+- Experience with applications, databases, operating systems, and network devices 
+- Understanding of threat attacks, exploitation, and data exfiltration 
+- Perform information technology security research to remain current on emerging 
+technology trends and develop exploits for disclosed and undisclosed vulnerabilities. 
+- Deploy ethical hacking to expose weaknesses in your organization 
+- Gather intelligence by employing reconnaissance, published data, and scanning tools 
+- Test and improve your security by compromising your network using hacking tools 
+- Protect against privilege escalation to prevent intrusions  
+- Experience with packet analysis to include HTTP Headers & Status codes, SMTP Traffic & 
+Status codes, FTP Traffic & Status Codes
+- Proficiency with MS Office Applications 
+- Ability to work collaboratively across teams and physical locations 
+- CEH ready 
+- Knowledge in Network Penetration Testing, Application Penetration Testing, Social 
+Engineering, Vulnerability Scanning
+
+---
+
+### :hammer_and_wrench: Languages and Tools :
+
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+ <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original-wordmark.svg" title="bootstrap" alt="bootstrap" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original-wordmark.svg" title="debian" alt="debian" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="figma" alt="figma" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/ruby/ruby-original-wordmark.svg" title="ruby" alt="ruby" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/wordpress/wordpress-original.svg" title="wordpress" alt="wordpress" width="40" height="40"/>&nbsp;
+</div>
+
+---
+### :fire: My Stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goretti16kate&theme=dark)](https://git.io/streak-stats)
+
+
+---
+
+### :writing_hand: Blog Posts :
+<img src="https://media1.giphy.com/media/vv7s9gH0yH0c5xGgrK/200.webp?cid=ecf05e47bwtvk1u9idssa59pqzuvix37f20amriksyx2715v&rid=200.webp&ct=s" alt="coming soon" width="100" height="100"/>
