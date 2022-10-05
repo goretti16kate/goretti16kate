@@ -97,5 +97,5 @@ Engineering, Vulnerability Scanning
 ---
 
 ### :writing_hand: Blog Posts :
-https://medium.com/@gorettikate/jangow01-walk-through-beaa8e0995cb - jangow01 walkthrough
+https://medium.com/@gorettikate/jangow01-walk-through-beaa8e0995cb - jangow01 walkthrough <br>
 <img src="https://media1.giphy.com/media/vv7s9gH0yH0c5xGgrK/200.webp?cid=ecf05e47bwtvk1u9idssa59pqzuvix37f20amriksyx2715v&rid=200.webp&ct=s" alt="coming soon" width="100" height="100"/>
