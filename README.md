@@ -44,7 +44,7 @@ I am a Penetration Tester and Developer from Kenya.<img src="https://media.giphy
 
 - :seedling: Exploring Technical Content Writing and blockchain development.
 
-- :zap: In my free time, I solve CTF challenges on various platforms such as cybertalents, Ethernaut and a member of the Fr33aks-mini CTF team
+- :zap: In my free time, I solve CTF challenges on various platforms such as cybertalents, Ethernaut and a CTF player
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-goretti/)
 
