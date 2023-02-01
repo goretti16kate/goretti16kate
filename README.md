@@ -49,15 +49,16 @@ I am a Penetration Tester and Developer from Kenya.<img src="https://media.giphy
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/catherine-goretti/)
 
 ---
-### Blockchain Security Analyst
-- Strong understanding of blockchain technology and its underlying concepts such as cryptography, consensus mechanisms, smart contracts, and distributed systems.
-- Familiarity with common blockchain platforms such as Bitcoin and Ethereum
-- Knowledge of security risks and vulnerabilities specific to blockchain systems, as well as experience with security testing and vulnerability assessments.
-- Familiarity with programming languages such as Solidity and JavaScript.
-- Strong analytical skills and attention to detail, as well as the ability to identify and mitigate potential security threats.
-- Knowledge of security industry standards and best practices, such as ISO 27001/2, NIST SP 800-53, and OWASP Top 10.
-- Strong written and verbal communication skills to effectively convey technical information to non-technical stakeholders.
-
+<!--
+1. ### Blockchain Security Analyst
+2. - Strong understanding of blockchain technology and its underlying concepts such as cryptography, consensus mechanisms, smart contracts, and distributed systems.
+3. - Familiarity with common blockchain platforms such as Bitcoin and Ethereum
+4. - Knowledge of security risks and vulnerabilities specific to blockchain systems, as well as experience with security testing and vulnerability assessments.
+5. - Familiarity with programming languages such as Solidity and JavaScript.
+6. - Strong analytical skills and attention to detail, as well as the ability to identify and mitigate potential security threats.
+7. - Knowledge of security industry standards and best practices, such as ISO 27001/2, NIST SP 800-53, and OWASP Top 10.
+8. - Strong written and verbal communication skills to effectively convey technical information to non-technical stakeholders.
+-->
 ### Penetration testing skills
 - Knowledge in penetration testing enterprise networks using standard penetration tools 
 (Metasploit, Nmap, Nessus, Burp Suite, etc.) 
