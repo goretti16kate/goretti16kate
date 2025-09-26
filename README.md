@@ -107,7 +107,7 @@ Engineering, Vulnerability Scanning
 ### :fire: My Stats :
 
 <!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=goretti16kate&theme=dark)](https://git.io/streak-stats) -->
-[![GitHub Streak](https://streak-stats.demolab.com/?user=goretti16kate)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=goretti16kate&theme=dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
 
 
 ---
